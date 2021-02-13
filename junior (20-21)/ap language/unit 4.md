@@ -107,6 +107,9 @@
     - can focus on one side of the argument or one point of comparsion
 
 ### Daily Video 2
+**TARGET: develop a text through definition and description**
+- definition is something concrete, where an audience already knows
+- description is more personal and an experience
 
 ### Daily Video 3
 **TARGET: how to recognize methods of development in MCQ**

@@ -45,53 +45,99 @@
 - organization helps prevent logical fallacies and pitfalls
 
 ### Daily Video 2
-**TARGET: **
-
 
 ### Daily Video 3
-**TARGET: **
-
 
 ---
 
 ## 6.A - reasoning and organization, writing
-### Daily Video 1
-**TARGET: **
+### Daily Video 1 - FRQs
+**TARGET: review line of reasoning (LOR)**
+- line of reasoning review
+    - start with your claim (thesis)
+    - then there will be reasons -> evidence -> commentary
+- discussion, evidence, and reasoning must link back to its precedent
+- method of development (MOD) is how you organize your points
 
+|     |           |
+|:--  |:--        |
+|C    |Claim      |
+|R    |Reasoning  |
+|E    |Evidence   |
+|D    |Discussion |
 
-### Daily Video 2
-**TARGET: **
+### Daily Video 2 - synthesis
+**TARGET: how to link evidence with commentary**
+- link evidence to your claim or subclaims by
+    - intrepreting: what does it mean?
+    - evaluating: what makes it credible or valid?
+    - emphasizing: what makes it significant?
+    - analyzing: how does it connect?
+- evidence (what) -> link (how) -> claim (why)
+- synthesis specific tips
+    - understand the prompt and answer it
+    - interpret the photo with personal commentary
 
-
-### Daily Video 3
-**TARGET: **
-
+### Daily Video 3 - rhetorical analysis
+**TARGET: learn about commentary for rhetorical analysis**
+- rhetorical analysis tips
+    - use commentary to link evidence and claim for more points
+    - explain *effect* not *effectiveness*
+    - focus on details of the passage instead of rating how good it is
+- connect:
+    - purpose or message of the text
+    - evidence of the writer making a rhetorical choice
+    - how the choice supports the purpose or message
 
 ---
 
 ## 5.C - reasoning and organization, reading
-### Daily Video 1
-**TARGET: **
+### Daily Video 1 - FRQs
+**TARGET: recognize methods of development**
+- organizational choices to lead the reader to a conclusion
+- core methods of development
+    - narration: flashbacks, anecdotes, story appeal, ethos and pathos
+    - description: specific details, imagery, emphasis and tone, ethos and pathos
+    - definition: define, clarify, limit scope of argument, logos
+    - comparison: counter-argument, juxtaposition, logos and pathos
 
+### Daily Video 2 - FRQs
+**TARGET: use rhetorically accurate verbs**
+- start by looking at the passage as a whole and work down to sentence organization
+- organization methods
+    - most important -> least important
+    - concrete evidence -> abstract reasoning
+    - groups -> sub-groups
+    - oldest -> recent
+    - light tone -> serious tone
+- rhetorically accurate verbs (RAVs) answers "what is the writer doing?"
+    - verbs that describe shift in mood
 
-### Daily Video 2
-**TARGET: **
-
-
-### Daily Video 3
-**TARGET: **
-
+### Daily Video 3 - rhetorial analysis
+**TARGET: practice recognizing methods of development**
+- break up the passage into three or four parts
+- summarize each part in a few words
 
 ---
 
 ## 6.C - claims and evidence, writing
-### Daily Video 1
-**TARGET: **
+### Daily Video 1 - argument, synthesis
+**TARGET: how to use MODs appropriately**
+- argument essay often uses definition
+    - asks you to define first, and then apply evidence
+    - provide your own definition
+    - use compare and contrast
 
+### Daily Video 2 - FRQs
+**TARGET: use cause/effect and compare/contrast**
+- venn diagrams are useful to plan out thesis
+    - pros and cons
+- the thesis of cause/effect essay is "how does A affect B?"
+- can have multiple causes for one effect, or multiple effects for one cause
 
-### Daily Video 2
-**TARGET: **
-
-
-### Daily Video 3
-**TARGET: **
+### Daily Video 3 - argument, synthesis
+**TARGET: use description and narration**
+- argument essay tips
+    - argue your own point/position
+    - use specific, concrete language
+- thesis can go anywhere in the essay
