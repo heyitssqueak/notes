@@ -11,7 +11,10 @@
 ---
 
 ## 3.B - claims and evidence, reading
-### Daily Video 1
+### Daily Video 1 - synthesis, argument
+**TARGET: how to change position in thesis**
+- it's ok to change your opinion when presented with new evidence
+- introduce the idea in writing and add lots of supporting details 
 
 ---
 
