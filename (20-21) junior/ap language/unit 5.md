@@ -28,7 +28,7 @@
     - what evidence would support that claim?
     - what commentary would connect the evidence to the claim?
 
-### Daily Video 2
+### Daily Video 2 - synthesis, argument
 **TARGET: how to strengthen a body paragraph**
 - vary the order you use claim/evidence/commentary
 - explore more than one layer of a claim
@@ -36,9 +36,22 @@
 ---
 
 ## 5.B - reasoning and organization, reading
-### Daily Video 1
+### Daily Video 1 - MCQ
+**TARGET: recognize how to add unity and coherence in a text**
+- all pieces of a system are necessary, meaning that all levels of writing should unify to form a good essay
+- unifiers can include repetition, synonyms, pronoun references, and parallel structure
+    - reference to a previous object repeatedly using 'it'
+    - contrast ideas with parallel structure to reinforce the claim
 
-### Daily Video 2
+### Daily Video 2 - MCQ
+**TARGET: look at transitional evidence in text**
+- because text is connected through multiple levels, transitions must be used to connect them together
+    - words: first, however, also
+    - phrases: for example, on the contrary, in addition
+    - clauses: because this is the case
+    - sentences: this is not always the case
+- transitions help writers transfer from one idea to the next smoothly
+- can signify at which point of the text the reader is at
 
 ---
 

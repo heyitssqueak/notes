@@ -45,8 +45,15 @@
 - organization helps prevent logical fallacies and pitfalls
 
 ### Daily Video 2
+**TARGET: analyze how writers introduce ideas**
+- start big or generalize and then narrow down
+    - also works for introducing a big idea and then introducing solutions
+- focus on a positive starting point so listers aren't immediately in a negative mood
 
 ### Daily Video 3
+**TARGET: look at an example of line of reasoning**
+- when starting with a more extreme point of view, make sure to preview the argument with clear and strong points
+- sometimes a concrete solution isn't needed but it can be suggested
 
 ---
 
