@@ -1,12 +1,29 @@
 ## 3.A - claims and evidence, reading
-### Daily Video 1
+### Daily Video 1 - synthesis
+**TARGET: learn about source credibility and bias**
+- the bias of a source can be inferred from the citation
+- break down the information and the source into position, bias, and credibility
+    - position: what side is the article taking?
+    - bias: is it pure opinion or is it facts or graphs?
+    - credibility: is it from a research center?
 
-### Daily Video 2
+### Daily Video 2 - synthesis, argument
+**TARGET: look at the difference between position and perspective**
+- a position is being argued by the source
+    - the overarching idea or claim of the passage
+- the perspective is where the argument is coming from
+    - who is the author of the source? what effect does that have on bias/credibility?
 
 ---
 
 ## 4.A - claims and evidence, writing
-### Daily Video 1
+### Daily Video 1 - synthesis
+**TARGET: how to write an essay drawing from multiple sources and perspectives**
+- find what the sources have in common, which should be your argument
+- when adding quotes or textual evidence, try not to go over 15 words
+    - the evidence should make your argument stronger and not distract from the main idea
+        - should also flow with your writing style
+    - add the source in parentheses after the quote
 
 ---
 
